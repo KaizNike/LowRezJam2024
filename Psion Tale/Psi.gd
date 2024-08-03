@@ -77,5 +77,5 @@ func stage_actions(s):
 			change_text("""responding,
 "Recalling
 little, where
-are we?" """)
+are we?" > """)
 	pass
